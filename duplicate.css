@@ -1,0 +1,38 @@
+body {
+    background-color: beige;
+    margin: 0;
+}
+
+header {
+    background-color: darkcyan;
+    height: 10vh;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    margin: 0;
+}
+
+P{
+    font-size: 32pt;
+    color: darkgrey; 
+}
+
+button {
+    border-radius: 8px;
+}
+
+div {
+    height: fit-content;
+    margin: 10px 30px; 
+}
+
+div > p {
+    font-size: 24pt;
+}
+
+img {
+    height: 300px;
+    border: 8px solid black;
+}
